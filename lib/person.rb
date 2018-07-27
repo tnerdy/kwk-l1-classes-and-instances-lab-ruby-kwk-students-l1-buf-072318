@@ -4,4 +4,6 @@ class Person
  
  end   
  
- adele = 
+ adele = Person.new
+ goldberg = Person.new
+ 
