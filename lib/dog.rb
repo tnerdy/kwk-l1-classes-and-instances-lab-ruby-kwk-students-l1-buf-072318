@@ -1,21 +1,9 @@
 # dog.rb
 
 class Dog
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-end 
+   
+end  
+
+
+
+F
